@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lemon</string>
+    <string name="action_Profile">Профиль</string>
+    <string name="action_key">Создать</string>
+    <string name="calendar_name">Календарь</string>
+    <string name="profile_name">Профиль</string>
+</resources>

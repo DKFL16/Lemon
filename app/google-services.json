@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1011916599594",
+    "firebase_url": "https://projectgekko-36e91-default-rtdb.firebaseio.com",
+    "project_id": "projectgekko-36e91",
+    "storage_bucket": "projectgekko-36e91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011916599594:android:dd0484057b19a244a62e53",
+        "android_client_info": {
+          "package_name": "com.example.projectgekko_finalversion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011916599594-knh74q2hc88le783f47lf28gor56gnrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCA6bIvNYpY134VgnOyb-g6v3_rIQGtM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011916599594-knh74q2hc88le783f47lf28gor56gnrj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
